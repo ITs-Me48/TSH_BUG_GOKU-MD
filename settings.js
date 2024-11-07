@@ -15,9 +15,9 @@ global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
-global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
+global.ownernumber = '50948181169'  //creator number
+global.ownername = '🌹iTs me🌹' //owner name
+global.botname = '🐲iTs me🐲' //name of the bot
 
 //sticker details
 global.packname = 'FML-GRIMM🐲🌹'
@@ -34,13 +34,13 @@ global.link = 'https://whatsapp.com/channel/0029VajjpHoGZNCsyVLRRk1f'
 global.prefa = ['','!','.','#','🌹']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoRecording = true//auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true//auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
